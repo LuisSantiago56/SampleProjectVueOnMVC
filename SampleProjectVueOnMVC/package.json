@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "build": "webpack & dotnet build",
-    "start": "dotnet run"
+    "build": " webpack"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
